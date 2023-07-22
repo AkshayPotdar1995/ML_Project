@@ -1,0 +1,12 @@
+Mean for DecisionTreeRegressor() model is 1.1233685479996445
+
+Standers Deviation for DecisionTreeRegressor() model is 0.08138997096705787
+
+Mean for LinearRegression() model is 0.6793920236536831
+
+Standers Deviation for LinearRegression() model is 0.0443276599197434
+
+Mean for RandomForestRegressor() model is 0.8464422526315692
+
+Standers Deviation for RandomForestRegressor() model is 0.06749009775490272
+
